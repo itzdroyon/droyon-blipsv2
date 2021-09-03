@@ -1,6 +1,6 @@
 
 local blips = {
-(Config.DroyonBlips)
+Config.DroyonBlips
   }
       
 Citizen.CreateThread(function()
